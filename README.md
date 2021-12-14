@@ -110,25 +110,25 @@ total.fillna(method='bfill', inplace=True)
 <br>
 
 **A 공급사(이상치 처리 전)**<br>
-<img src="A.png">
+<img src="images/A.png">
 
 <br>
 
 **B 공급사(이상치 처리 전)**
 <br>
-<img src="B.png">
+<img src="images/B.png">
 
 <br>
 
 **H 공급사(이상치 처리 전)**
 <br>
-<img src="H.png">
+<img src="images/H.png">
 
 <br>
 
 **G 공급사(이상치 처리 전)**
 <br>
-<img src="G.png">
+<img src="images/G.png">
 
 **STEP1 TRAIN, VALIDATION DATASET 분할**
 
@@ -175,7 +175,7 @@ random_state = 1234)
 
 rf.fit(train_xx, train_yy)
 ```
-<img src="9.png">
+<img src="images/9.png">
 <h2>
 
 **Final Score : 0.11979**
