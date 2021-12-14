@@ -1,7 +1,7 @@
 <div>
  <h2>
   
-**2021가스 공급량 수요예측 모델 개발(DACON CHALLENGE)**
+**2021 가스 공급량 수요예측 모델 개발(DACON CHALLENGE)**
  </h2>
 
 <br>
