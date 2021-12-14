@@ -33,7 +33,7 @@ __토끼와 두루미팀 : 황다빈, 하지민, 이채훈__
 
 </h4>
 <div align='center'>
-<img src="10.png" width="400" height="400">
+<img src="images/10.png" width="400" height="400">
 <br>
 
 **<외부데이터를 활요한 상관관계 히트맵>**
