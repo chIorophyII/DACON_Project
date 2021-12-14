@@ -6,7 +6,7 @@
 
 <br>
 
-__토끼와 두루미팀 : [황다빈](https://github.com/jimnida, [하지민](https://github.com/jimnida), [이채훈](https://github.com/commanderk9826/DACON_Project/)__
+__토끼와 두루미팀 : [황다빈](https://github.com/chIorophyII), [하지민](https://github.com/jimnida), [이채훈](https://github.com/commanderk9826/DACON_Project/)__
 
 <br>
 <h1>
